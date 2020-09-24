@@ -1,0 +1,1 @@
+All assignments of CSE4214 Pattern Recognition course. All are done using Python.
